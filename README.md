@@ -1,4 +1,4 @@
-# CIE 1931 色彩空间分析工具 (CIE 1931 Color Space Converter)
+# CIE 1931 色彩空间分析工具
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Vanilla JS](https://img.shields.io/badge/Tech-Vanilla%20JS-f7df1e.svg)]()
