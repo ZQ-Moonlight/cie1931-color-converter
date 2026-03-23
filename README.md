@@ -1,8 +1,8 @@
 # CIE 1931 色彩空间分析工具
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Vanilla JS](https://img.shields.io/badge/Tech-Vanilla%20JS-f7df1e.svg)]()
-[![Color Science](https://img.shields.io/badge/Domain-Color%20Science-ff69b4.svg)]()
+[![Vanilla JS](https://img.shields.io/badge/Tech-Vanilla%20JS-f7df1e.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Color Science](https://img.shields.io/badge/Domain-Color%20Science-ff69b4.svg)](https://en.wikipedia.org/wiki/Color_science)
 [![在线演示](https://img.shields.io/badge/在线试用-点我-brightgreen?style=for-the-badge&logo=github)](https://zq-moonlight.github.io/cie1931-color-converter/)  
 
 *(2026 年 3 月部署，点击上方按钮即可访问)*
